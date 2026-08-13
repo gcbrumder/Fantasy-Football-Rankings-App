@@ -1,2 +1,33 @@
-# Fantasy-Football-Rankings-App
-A full-stack fantasy football rankings platform built with React, TypeScript, SQL, and AI-assisted development. Users can create custom rankings, compare expert boards, analyze ranking similarity, run player battles, and manage league-specific draft boards.
+# Fantasy Football Rankings
+
+A fantasy football rankings platform I built using AI-assisted development.
+
+## What it does
+- Create custom player rankings
+- Compare rankings against expert sources
+- Analyze ranking similarity
+- Run player battles
+- Manage multiple draft boards
+- Export rankings to CSV
+
+## Why I built it
+I wanted a better way to create and compare fantasy football rankings while experimenting with AI-assisted product development and low-code tools.
+
+## Tech
+- Retool
+- SQL
+- JavaScript
+- AI-assisted development
+
+## Screenshots
+<img width="1467" height="719" alt="Screenshot 2026-08-13 at 11 59 50 AM" src="https://github.com/user-attachments/assets/8630a07d-fcb9-4d0f-9462-ed83320a93ec" />
+
+<img width="1469" height="710" alt="Screenshot 2026-08-13 at 12 00 26 PM" src="https://github.com/user-attachments/assets/feb75f98-2ab0-4f83-9f13-82c0dcffa75d" />
+
+<img width="1457" height="707" alt="Screenshot 2026-08-13 at 12 01 18 PM" src="https://github.com/user-attachments/assets/8693d63d-47c4-42a6-a1d3-12971342a890" />
+
+<img width="1461" height="711" alt="Screenshot 2026-08-13 at 12 00 53 PM" src="https://github.com/user-attachments/assets/1955277b-726e-4917-aeaf-10fb5810ac06" />
+
+
+## What I learned
+This project helped me learn how to turn a product idea into a working application, structure user workflows, work with data, and use AI to rapidly prototype and iterate.
